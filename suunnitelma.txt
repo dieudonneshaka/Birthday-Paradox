@@ -1,0 +1,6 @@
+program starts. Program ask the user how manny birthday shall i generate
+The answear depends on how big the group size is. The program uses an array of size 365 
+to keep track of weather a birthday for each person has already been enterd 
+it generate random birthday for each person and check weather the generated birthday 
+is already assigned to someone else  if program found the  birthday it retrns true 
+if the program doesn't  found the birthday it retrns false

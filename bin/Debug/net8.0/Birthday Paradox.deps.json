@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Birthday Paradox/1.0.0": {
+        "runtime": {
+          "Birthday Paradox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Birthday Paradox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
